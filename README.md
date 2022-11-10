@@ -1,2 +1,2 @@
-# Repositório do projeto Trainee Grupo Carrefour Brasil da DIO
+# Repositório De Projeto GitHub da DIO
   Repositório para Desafio de Projetos GitHub
